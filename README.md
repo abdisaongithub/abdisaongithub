@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Flutter and Laravel<br>🤝 I’m looking for help with Next.js<br>🌱 I’m currently learning Tailwind and React.js with Redux<br>💬 Ask me about Flutter
+🔭 I'm currently working on Flutter and Express.sj + React.js<br>🤝 I’m looking for help with Machine Learning<br>🌱 I’m currently learning LangChain<br>💬 Ask me anything about Flutter
 
 
 ## 🌐 Socials:
